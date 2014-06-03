@@ -1,0 +1,9 @@
+{
+  "name": "yaml",
+  "version": "0.1.4",
+  "repo": "clibs/yaml",
+  "description": "YAML parser/emitter",
+  "keywords": ["yaml"],
+  "install": "./configure && make && make install"
+}
+
