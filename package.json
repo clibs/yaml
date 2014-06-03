@@ -5,7 +5,6 @@
   "description": "YAML parser/emitter",
   "keywords": ["yaml"],
   "src": [
-    "yaml_version.c",
     "include/yaml.h",
     "src/yaml_private.h",
     "src/api.c",
