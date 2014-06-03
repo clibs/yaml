@@ -4,6 +4,19 @@
   "repo": "clibs/yaml",
   "description": "YAML parser/emitter",
   "keywords": ["yaml"],
-  "install": "./configure && make && make install"
+  "install": "./configure && make && make install",
+  "src": [
+    "include/yaml.h",
+    "src/yaml_private.h",
+    "src/api.c",
+    "src/dumper.c",
+    "src/emitter.c",
+    "src/loader.c",
+    "src/parser.c",
+    "src/reader.c",
+    "src/scanner.c",
+    "src/writter.c",
+    "src/writter.c"
+  ]
 }
 
