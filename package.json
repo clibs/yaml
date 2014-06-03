@@ -4,7 +4,6 @@
   "repo": "clibs/yaml",
   "description": "YAML parser/emitter",
   "keywords": ["yaml"],
-  "install": "./configure && make && make install",
   "src": [
     "include/yaml.h",
     "src/yaml_private.h",
