@@ -14,8 +14,7 @@
     "src/parser.c",
     "src/reader.c",
     "src/scanner.c",
-    "src/writter.c",
-    "src/writter.c"
+    "src/writer.c"
   ]
 }
 
